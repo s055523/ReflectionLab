@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionGeneric", "Reflec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionLab2", "ReflectionLab2\ReflectionLab2.csproj", "{F1BF5158-C1DB-4DF8-A330-1B768D1EDD1B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionPerformanceLab", "..\ReflectionPerformanceLab\ReflectionPerformanceLab.csproj", "{2F33EE26-6F46-42F3-8A65-5DC05578397D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F1BF5158-C1DB-4DF8-A330-1B768D1EDD1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1BF5158-C1DB-4DF8-A330-1B768D1EDD1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1BF5158-C1DB-4DF8-A330-1B768D1EDD1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F33EE26-6F46-42F3-8A65-5DC05578397D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F33EE26-6F46-42F3-8A65-5DC05578397D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F33EE26-6F46-42F3-8A65-5DC05578397D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F33EE26-6F46-42F3-8A65-5DC05578397D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
